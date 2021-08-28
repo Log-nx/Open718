@@ -1,4 +1,4 @@
-# Open source 718 Framework
+# Open source 718 core
 
 The purpose of this is to allow some possible teamwork / movement in developing a good 718.
 
